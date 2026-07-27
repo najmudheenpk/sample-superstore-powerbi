@@ -6,6 +6,7 @@ This project is an interactive Power BI dashboard built using the Sample Superst
 ## Dashboard Features
 - Total Sales
 - Total Profit
+- Sale Analysis
 - Sales by Region
 - Sales by Category
 - Sales by Sub-Category
